@@ -1,0 +1,24 @@
+.body {
+    margin: 0;
+}
+
+#elijahishotasfuck > .image {
+    width: 40vmin;
+    margin: 10px;
+    object-fit: contain;
+    object-position: center;
+    user-select: none;
+    
+}
+
+#elijahishotasfuck {
+    display: flex;
+    -webkit-align-content: justify;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    flex-direction: row;
+}
+
+.image {
+    opacity: 80%;
+}
